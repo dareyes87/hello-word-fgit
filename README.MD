@@ -26,3 +26,34 @@ Underline 2
 
 # Imagenes
 ![Logo GitHub](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
+# Code Snippets
+
+# Tablas
+
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| DANIEL | REYES    | 209458239 |
+| HAROLDO| GARCIA   | 234028340 |
+
+# CITAS
+ESTO ES UN TEXTO REFERENTE A UNA CITA QUE PONDREMOS ABAJO: 
+> Esto es una cita
+
+Estas es otra cita
+> Otra cita
+
+# Lineas Divisoras
+Esto es un texto que sera dividido
+---
+Texto dividido
+***
+Text dividido
+___
+
+# Saltos de linea
+Esto es un parrafo
+
+Esto es un parrafo
+
+Esto es un parrafo
