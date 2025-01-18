@@ -13,4 +13,13 @@ Underline 2
 - formato **bold o strong**
 - formato __bold o strong__
 - formato ~~tachado~~ 
-- formato **~~tachado y bold~~** 
+- formato **~~tachado y bold~~**
+
+# Listas
+1. Esto es un item
+2. Esto es un item
+3. Esto es un item
+4. Esto es un item
+
+# Links
+<a href="http://www.google.com">Link</a>
